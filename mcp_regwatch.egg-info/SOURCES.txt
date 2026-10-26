@@ -1,0 +1,8 @@
+pyproject.toml
+mcp_regwatch/__init__.py
+mcp_regwatch/server.py
+mcp_regwatch.egg-info/PKG-INFO
+mcp_regwatch.egg-info/SOURCES.txt
+mcp_regwatch.egg-info/dependency_links.txt
+mcp_regwatch.egg-info/requires.txt
+mcp_regwatch.egg-info/top_level.txt
